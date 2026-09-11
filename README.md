@@ -8,9 +8,14 @@
 
 ---
 
-## 📊 Дашборд проекта
+
+## 📊 Дашборд и Модель данных
+
+### Интерфейс дашборда
 ![Интерфейс дашборда](dashboards/dashboard_screenshot.png)
 
+### Схема данных в Power Pivot (Схема «Звезда»)
+![Модель данных Power Pivot](dashboards/power_pivot_model.png)
 ---
 
 ## 🛠 Технологический стек
